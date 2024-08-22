@@ -12,6 +12,9 @@ cd chatbot-web
 ```
 
 Once you cloned everything successfully,
+Arrange the files respectively : 
+![chatbot-project-directory](chatbot-project-directory.jpg)
+
 Start the Flask server with:
 ```
 python app.py
