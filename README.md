@@ -1,4 +1,4 @@
-# chatbot-webpage
+# chatbot-webpage RuleBased
 Simple chatbot | yml dataset | React 
 
 Set up the React App
